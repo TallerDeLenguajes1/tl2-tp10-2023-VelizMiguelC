@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = tl2_tp10_2023_VelizMiguelC
+build_property.RootNamespace = tl2_tp10_2023_VelizMiguelC
+build_property.ProjectDir = /Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Tablero/CrearTablero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFibGVyby9DcmVhclRhYmxlcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Tablero/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFibGVyby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Tablero/ModificarTablero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFibGVyby9Nb2RpZmljYXJUYWJsZXJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Tablero/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFibGVyby9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Tarea/CrearTarea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyZWEvQ3JlYXJUYXJlYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Tarea/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyZWEvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Tarea/ModificarTarea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyZWEvTW9kaWZpY2FyVGFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Tarea/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFyZWEvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Usuario/CrearUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9DcmVhclVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Usuario/ModificarUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9Nb2RpZmljYXJVc3VhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Usuario/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpby9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/miguelvelizc/TallerDeLenguajes2/tl2-tp10-2023-VelizMiguelC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bhg13f9n84

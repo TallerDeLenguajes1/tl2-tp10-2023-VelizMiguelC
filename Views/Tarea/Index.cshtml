@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Tarea Page";
+}
+@model List<Tarea>
+<div class ="d-flex flex-column align-items-center">
+  <h2>Listado de Tareas</h2>
+<table class="table table-success table-striped">
+  <thead>
+    <tr>  
+      <th scope="col" hidden>ID</th>
+      <th scope="col" class="col-3">Nombre</th>
+      <th scope="col" class="col-3">Descripcion</th>
+      <th scope="col">Color</th>
+      <th scope="col">Estado</th>
+      <th scope="col">Usuario Asignado</th>
+      <th scope="col">Modificar</th>
+      <th scope="col">Eliminar</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var Tar in Model){
+    <tr>
+      <th scope="row"hidden>@Tar.Id</th>
+      <td>@Tar.Nombre</td>
+      <td>@Tar.Descripcion</td>
+      <td>@Tar.Color</td>
+      <td>@Tar.Estado</td>
+      <td>@Tar.IdUsuarioAsignado</td>
+      <td><a asp-controller="Tarea" asp-action="ModificarTarea" asp-route-idTar="@Tar.Id" class="btn btn-info">Editar</a></td>
+      <td><a asp-controller="Tarea" asp-action="DeleteTarea" asp-route-idTar="@Tar.Id" onclick="return confirm('¿Estás seguro que quieres eliminar la tarea?')" class="btn btn-outline-danger">Eliminar</a></td>  
+    </tr>
+    }
+  </tbody>
+</table>
+<a asp-controller="Tarea" asp-action="CrearTarea"><button type="button" class="btn btn-primary btn-lg">Crear Tarea</button></a>
+</div>
